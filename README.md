@@ -2,7 +2,7 @@
 
 Equipe Alpha Team
 
-:boy: Andrew Augusto Dias Santos( Scrum Master) 
+:boy: Andreww Augusto Dias Santos( Scrum Master) 
 
 :man:  Carlos Fernando de Souza (Product Owner) 
 
