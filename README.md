@@ -1,6 +1,6 @@
 # Alpha-Team
 
-:clipboard: Projeto Vigilant
+:clipboard: **Projeto Vigilant**
 
 Nosso  cliente  é a empresa  é Necto Systems.
 	Nossa missão  é  desenvolver  uma  aplicação  para  coletar  métricas periodicamente de um ou mais Sistemas Gerenciadores
@@ -9,7 +9,7 @@ Nosso  cliente  é a empresa  é Necto Systems.
         para tomar decisões quanto a necessidade  de  manutenções ,balanceamento  e  aumento   de capacidade e melhoria no seus 
         SGBDs, databases e  na sua infra(Servidores).
 
-Equipe Alpha Team
+:punch: **Equipe Alpha Team**
 
 :boy: Andreww Augusto Dias Santos( Scrum Master) 
 
