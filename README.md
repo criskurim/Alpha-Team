@@ -28,3 +28,13 @@ Nosso  cliente  é a empresa  é Necto Systems.
 :computer: Romário Araújo Pinheiro (Dev Team)
 
 :computer: Vitor Lima (Dev Team)
+
+<h1>Backlog do Produto</h1>
+
+
+<h1>Tecnologias Utilizadas</h1>
+:heavy_check_mark: Github<br>
+:heavy_check_mark: Java<br>
+:heavy_check_mark: Comunicação: Meet e Discord<br>
+:heavy_check_mark:PostgreSQL<br>
+:heavy_check_mark: brModelo<br>
