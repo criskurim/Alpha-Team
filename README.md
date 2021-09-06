@@ -30,3 +30,11 @@ Nosso  cliente  é a empresa  é Necto Systems.
 :computer: Vitor Lima (Dev Team)
 
 <h1>Backlog do Produto</h1>
+
+
+<h1>Tecnologias Utilizadas</h1>
+:heavy_check_mark: Github
+:heavy_check_mark: Java
+:heavy_check_mark: Comunicação: Meet e Discord
+:heavy_check_mark:PostgreSQL
+:heavy_check_mark: brModelo
