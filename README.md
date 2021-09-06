@@ -34,7 +34,11 @@ Nosso  cliente  é a empresa  é Necto Systems.
 
 <h1>Tecnologias Utilizadas</h1>
 :heavy_check_mark: Github
+
 :heavy_check_mark: Java
+
 :heavy_check_mark: Comunicação: Meet e Discord
+
 :heavy_check_mark:PostgreSQL
+
 :heavy_check_mark: brModelo
