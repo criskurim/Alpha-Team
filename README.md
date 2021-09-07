@@ -35,9 +35,9 @@ Nosso  cliente  é a empresa  é Necto Systems.
 <h1>Informações das Sprints</h1><br>
 Aqui você fica por dentro do andamento do projeto<br>
 • 1º Sprint - 30/08/2021 há 19/09/2021 :heavy_check_mark:<br>
-• 2º Sprint - 20/09/2021 há 10/10/2021 
-• 3º Sprint - 18/10/2021 há 07/11/2021
-• 4º Sprint - 08/11/2021 há 28/11/2021
+• 2º Sprint - 20/09/2021 há 10/10/2021<br>
+• 3º Sprint - 18/10/2021 há 07/11/2021<br>
+• 4º Sprint - 08/11/2021 há 28/11/2021<br>
 
 
 
