@@ -47,3 +47,4 @@ Aqui você fica por dentro do andamento do projeto<br>
 :heavy_check_mark: Comunicação: Meet e Discord<br>
 :heavy_check_mark:PostgreSQL<br>
 :heavy_check_mark: brModelo<br>
+:heavy_check_mark: MyScrumhalf<br>
