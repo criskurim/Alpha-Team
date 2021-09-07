@@ -30,7 +30,7 @@ Nosso  cliente  é a empresa  é Necto Systems.
 :computer: Vitor Lima (Dev Team)
 
 <h1>Backlog do Produto</h1><br>
-<img src="img/backlog.png">
+<img src="..img/backlog.png">
 
 
 <h1>Informações das Sprints</h1><br>
