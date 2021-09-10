@@ -2,9 +2,7 @@
 
 <FATEC Profº Jessen Vidal, São José dos Campos, 2º semestre de 2021, Curso: Tecnologia em Banco de Dados>
 
-
 <img title="Vigilant" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Vigilant.png">
-Desenvolvido para uma aplicação de gráficos onde exibe dados do cliente e avisos em casos de emergência.
 
 #
 
@@ -77,6 +75,7 @@ Desenvolvido para uma aplicação de gráficos onde exibe dados do cliente e avi
 #
 
 ### ✅ Descrição Do Projeto
+Desenvolvido para uma aplicação de gráficos onde exibe dados do cliente e avisos em casos de emergência.
 Nossa missão é desenvolver uma aplicação para coletar métricas periodicamente de um ou mais Sistemas Gerenciadores
 de Banco de Dados remoto, exibir gráficos e alertas de comprometimento do espaço em disco ou de qualquer outro problema 
 que influenciem no funcionamento desses Sistemas e seus databases. Através desta ferramenta o usuário terá informações
@@ -127,3 +126,5 @@ SGBDs, databases e na sua infra (Servidores).
 	  
 ## :bar_chart: User Stories
 <img height="260" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Stories.bmp">
+
+#
