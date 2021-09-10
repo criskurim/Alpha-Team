@@ -1,53 +1,129 @@
-# Alpha-Team
-Desenvolvido para uma aplicação de gráficos onde exibe dados do
-cliente e avisos em casos de emergência.
+## Projeto Vigilant
 
-<h1>Projeto Vigilant</h1>
-
-Nosso  cliente  é a empresa  é Necto Systems.
-	Nossa missão  é  desenvolver  uma  aplicação  para  coletar  métricas periodicamente de um ou mais Sistemas Gerenciadores
-        de Banco de Dados remoto, exibir  gráficos e alertas de  comprometimento do espaço em disco ou de qualquer outro problema 
-        que  influenciem no funcionamento  desses  Sistemas e seus databases. Através desta ferramenta  o usuário  terá informações
-        para tomar decisões quanto a necessidade  de  manutenções ,balanceamento  e  aumento   de capacidade e melhoria no seus 
-        SGBDs, databases e  na sua infra(Servidores).
-
-<h1>Equipe Alpha Team</h1>
-
-:boy: Andreww Augusto Dias Santos( Scrum Master) 
-
-:man:  Carlos Fernando de Souza (Product Owner) 
-
-:computer: Antonio Roberto de Almeida Zago (Dev Team) 
-
-:computer: Cristina Moreira Vespa (Dev Team)
-
-:computer: Hyury Lins de Vasconcelos (Dev Team) 
-
-:computer: Isaque Costa Beirao (Dev Team) 
-
-:computer: Romário Araújo Pinheiro (Dev Team)
-
-:computer: Vitor Lima (Dev Team)
-
-<h1>Backlog do Produto</h1><br>
-<img src="https://user-images.githubusercontent.com/81394880/132345909-5fc2996a-0f98-4de4-9acd-fd77d9405f97.png">
-
-[comment]: <> (![backlog]&#40;https://user-images.githubusercontent.com/81394880/132345909-5fc2996a-0f98-4de4-9acd-fd77d9405f97.png&#41;)
+<FATEC Profº Jessen Vidal, São José dos Campos, 2º semestre de 2021, Curso: Tecnologia em Banco de Dados
 
 
-<h1>Informações das Sprints</h1><br>
-Aqui você fica por dentro do andamento do projeto<br>
-• 1º Sprint - 30/08/2021 há 19/09/2021 :heavy_check_mark:<br>
-• 2º Sprint - 20/09/2021 há 10/10/2021<br>
-• 3º Sprint - 18/10/2021 há 07/11/2021<br>
-• 4º Sprint - 08/11/2021 há 28/11/2021<br>
+<img title="Vigilant" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Vigilant.png">
+Desenvolvido para uma aplicação de gráficos onde exibe dados do cliente e avisos em casos de emergência.
 
+#
 
+### Grupo:
 
-<h1>Tecnologias Utilizadas</h1>
-:heavy_check_mark: Github<br>
-:heavy_check_mark: Java<br>
-:heavy_check_mark: Comunicação: Meet e Discord<br>
-:heavy_check_mark:PostgreSQL<br>
-:heavy_check_mark: brModelo<br>
-:heavy_check_mark: MyScrumhalf<br>
+:boy: Andrew Augusto Dias Santos (Scrum Master) - 
+<a href="https://github.com/AndrewAugusto">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/AndrewAugusto">
+</a> 
+<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+:man: Carlos Fernando de Souza (Product Owner) - 
+<a href="https://github.com/CarlosSouza87">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/CarlosSouza87">
+</a>
+<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+:computer: Antonio Roberto de Almeida Zago (Dev Team) - 
+<a href="https://github.com/Antonio-Zago">
+	<img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Antonio-Zago">
+</a> 
+<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+:computer: Cristina Moreira Vespa (Dev Team) - 
+<a href="https://github.com/criskurim">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/criskurim">
+</a>
+<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+:computer: Hyury Lins de Vasconcelos (Dev Team) - 
+<a href="https://github.com/AndrewAugusto">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+</a>
+<a href="https://www.linkedin.com/in/hyury-lins-de-vasconcelos-955409169" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+:computer: Isaque Costa Beirao (Dev Team) - 
+<a href="https://github.com/AndrewAugusto">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+</a>
+<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+:computer: Romário Araújo Pinheiro (Dev Team) - 
+<a href="https://github.com/RomarioPinheiro">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/RomarioPinheiro">
+</a>
+<a href="https://www.linkedin.com/in/romario-ara%C3%BAjo-pinheiro-42422297" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+:computer: Vitor Luiz Rofrigues de Lima (Dev Team) - 
+<a href="https://github.com/AndrewAugusto">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+</a>
+<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+#
+
+### ✅ Descrição Do Projeto
+Nossa missão é desenvolver uma aplicação para coletar métricas periodicamente de um ou mais Sistemas Gerenciadores
+de Banco de Dados remoto, exibir gráficos e alertas de comprometimento do espaço em disco ou de qualquer outro problema 
+que influenciem no funcionamento desses Sistemas e seus databases. Através desta ferramenta o usuário terá informações
+para tomar decisões quanto a necessidade de manutenções, balanceamento e aumento de capacidade e melhoria no seus 
+SGBDs, databases e na sua infra (Servidores).
+
+#
+
+### ✅ Requisitos do Projeto
+ **Requisitos Funcionais:**
+- Registros periódicos de métricas (diariamente / hora)
+- Disponibilidade de dados coletados em tempo real
+- Histórico de métricas
+- Relatórios com as métricas e valores limites atingidos durante a operação
+- Cadastros de dados de conexão dos SGBDs (acesso a estatísticas por tabela)
+
+ **Requisitos Não Funcionais:**
+- Linguagem Java
+- Banco de Dados Relacional
+
+#
+
+### :computer: Tecnologias Utilizadas
+<div style="display: inline_block"><br>
+  <p align="center">
+ <img title="Java" height="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img title="Postgresql" height="120" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img tittle="Pg Admin" height="130" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/pg%20admin.png">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img title="Eclipse" height="120" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Sem%20título.png">
+
+#
+	  
+## :hourglass_flowing_sand: Planejamento de Entregas
+>  **SPRINT 1**
+
+<img height="160"  src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/1%20Sprint.png">
+
+#
+
+### :arrows_clockwise: Wireframes
+<img height="260" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Wireframe.bmp">
+<img height="260" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Wireframe1.bmp">
+	  
+#
+	  
+## :bar_chart: User Stories
+<img height="260" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Stories.bmp">
