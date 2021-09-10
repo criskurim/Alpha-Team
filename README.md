@@ -22,7 +22,7 @@ Desenvolvido para uma aplicação de gráficos onde exibe dados do cliente e avi
 <a href="https://github.com/CarlosSouza87">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/CarlosSouza87">
 </a>
-<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-fernando-souza-94aa074b/" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
