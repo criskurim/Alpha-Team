@@ -1,6 +1,6 @@
 ## Projeto Vigilant
 
-<FATEC Profº Jessen Vidal, São José dos Campos, 2º semestre de 2021, Curso: Tecnologia em Banco de Dados
+<FATEC Profº Jessen Vidal, São José dos Campos, 2º semestre de 2021, Curso: Tecnologia em Banco de Dados>
 
 
 <img title="Vigilant" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Vigilant.png">
