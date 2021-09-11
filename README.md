@@ -36,13 +36,13 @@
 <a href="https://github.com/criskurim">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/criskurim">
 </a>
-<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+<a href="https://www.linkedin.com/in/cristina-moreira-63a8a6173/" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
 :computer: Hyury Lins de Vasconcelos (Dev Team) - 
-<a href="https://github.com/AndrewAugusto">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+<a href="https://github.com">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:link">
 </a>
 <a href="https://www.linkedin.com/in/hyury-lins-de-vasconcelos-955409169" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -52,7 +52,7 @@
 <a href="https://github.com/AndrewAugusto">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
 </a>
-<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+<a href="https://www.linkedin.com/in/isaque-beirao-6b1769220/" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
@@ -65,10 +65,10 @@
 </a> 
 
 :computer: Vitor Luiz Rofrigues de Lima (Dev Team) - 
-<a href="https://github.com/AndrewAugusto">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+<a href="https://github.com/VilRL">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/VilRL">
 </a>
-<a href="https://www.linkedin.com/in/andrew-augusto-778585127/" target="_blank">
+<a href="https://www.linkedin.com/in/vitor-lima-36a1201a2/" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
