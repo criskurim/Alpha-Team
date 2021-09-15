@@ -9,13 +9,8 @@ public class conexao {
 	private String usuario;
 	private String senha;
 	private Connection con;
-	private String sql = "SELECT pg_database.datname, pg_size_pretty(pg_database_size(pg_database.datname)) AS size FROM pg_database;";
-	private String sql2 = "SELECT total_exec_time, query\r\n"
-			+ "FROM pg_stat_statements\r\n"
-			+ "ORDER BY total_exec_time\r\n"
-			+ "DESC LIMIT 10;";
 	
-	conexao(){
+	public conexao(){
 		url = "jdbc:postgresql://localhost:5432/teste";
 		usuario = "postgres";
 		senha = "toto190100";
@@ -58,9 +53,9 @@ public class conexao {
 			
 			while(result.next()) {
 				System.out.println("==========================================================");
-				System.out.println("TOTAL DE CHAMADAS: " + result.getString("tabela") + "\n");
-				System.out.println(result.getString("tamanho") + "\n");
-				System.out.println("TEMPO TOTAL: " + result.getString("tamanho_total")+"ms"); //Tempo somado de todas as selects
+				System.out.println("NOME: " + result.getString("tabela") + "\n");
+				System.out.println("TAMANHO: "+result.getString("tamanho") + "\n");
+				System.out.println("TAMANHO TOTAL: " + result.getString("tamanho_total")); //Tempo somado de todas as selects
 				System.out.println("==========================================================");
 			}
 		}
