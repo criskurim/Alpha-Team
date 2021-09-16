@@ -41,7 +41,7 @@
 </a> 
 
 :computer: Hyury Lins de Vasconcelos (Dev Team) - 
-<a href="https://github.com">
+<a href="https://github.com/livashyury">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:link">
 </a>
 <a href="https://www.linkedin.com/in/hyury-lins-de-vasconcelos-955409169" target="_blank">
@@ -128,3 +128,9 @@ SGBDs, databases e na sua infra (Servidores).
 <img height="260" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Stories.bmp">
 
 #
+
+## 🎞 Vídeos
+
+**SPRINT 1**
+	  
+https://user-images.githubusercontent.com/81338441/133531359-f5897aed-1882-4c45-940b-7bb2bd08e47d.mp4
