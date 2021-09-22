@@ -1,8 +1,8 @@
-## Projeto Vigilant
+# Projeto Integrador - Necto Systems
 
-<FATEC Profº Jessen Vidal, São José dos Campos, 2º semestre de 2021, Curso: Tecnologia em Banco de Dados>
-
-<img title="Vigilant" src="https://github.com/imagemrepositorio/Imagens/blob/main/Vigilant/Vigilant.png">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" alt="800" width="400"/>
+</p>
 
 #
 
