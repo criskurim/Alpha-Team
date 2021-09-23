@@ -80,7 +80,7 @@ Nossa missão é desenvolver uma aplicação para coletar métricas periodicamen
 de Banco de Dados remoto, exibir gráficos e alertas de comprometimento do espaço em disco ou de qualquer outro problema 
 que influenciem no funcionamento desses Sistemas e seus databases. Através desta ferramenta o usuário terá informações
 para tomar decisões quanto a necessidade de manutenções, balanceamento e aumento de capacidade e melhoria no seus 
-SGBDs, databases e na sua infra (Servidores).
+SGBDs, databases e na sua infra (Servidores)
 
 #
 
